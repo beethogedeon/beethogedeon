@@ -25,10 +25,11 @@
         <img src="https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS"
             alt="view profile">
     </div>
-    <hr width="100%">
+    <div>
     <a href="https://kloo.me/gedeon"><img align="right"
             src="https://github.com/beethogedeon/beethogedeon/assets/90460864/b931183f-71b5-4927-8549-f0279c30188d" width="400"
             alt="Beetho profile Card" />
+    </div>
     <div>
             <h3>Hi 👋 my name is Gedeon Jesugo GBEDONOU😎</h3>
     </a>
@@ -105,7 +106,7 @@
         </p>
     </div-->
     <br>
-    <hr width="100%">
+
     <div>
         <p align=center>
         <div align=center>
@@ -149,8 +150,8 @@
                 <a href="https://github.com/beethogedeon/audio_transcription"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=audio_transcription" alt="Readme Card"></a>
             </p>
         </div>
-        <hr width="100%">
-        <div>
+
+  <div>
             <h3 align="center"> 🥰 Connect with me:</h3>
             <!--p align="center">
                 <a href="https://discord.com/channels/@me/835488546897920021">
@@ -178,14 +179,18 @@
                 ❤️
             </p>
         </div>
-        <hr width="100%">
-        <div>
+        
+  <div>
             <h2 align="center"> 💻 Github Contributions :electron: </h2>
             <br>
             <div align="center">
                 <img src="https://github-readme-activity-graph.vercel.app/graph?username=beethogedeon&color=FF7F00&bg_color=09131B&line=FF7F00&point=FF7F00&area_color=000000&hide_border=true&area=true"
                     alt="readme active graph" />
-            </div>
+  </div>
+
+  <div>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beethogedeon&theme=nord" alt="beethogedeon" /></a> </p>
+  </div>
 </body>
 
 </html>
