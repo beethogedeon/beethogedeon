@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--     <title>README</title> -->
+    
 </head>
 
 <body>
@@ -32,34 +32,17 @@
     <div>
             <h3>Hi 👋 my name is Gedeon Jesugo GBEDONOU😎</h3>
     </a>
-    <ul>
-        <li>
-            🤗 I'm a newbie in Github 🥳
-        </li>
-        <li>
-            👉 I'm a man student 👨‍🎓
-        </li>
-        <li>
-            📝 And I'm studying English but I'm very lazy 😅
-        </li>
-        <li>
-            🏡 I'm living in a small city in <code>Việt Nam</code> 🇻🇳 👈 🏙️
-        </li>
-        <li>
-            ✍️ I want to study <code>code</code> and <code>how to write a program</code> 👀
-        </li>
-        <li>
-            💯 I'm very happy when you read my profile but I don't think my profile is professtion 🙄
-        </li>
-        <li>
-            💬 this is the first time I create a repository so I hope you will like my profile 👍
-        </li>
-        <li>
-            ❤️ thank you so much for reading it ❤️
-        </li>
-    </ul>
+
+- 🔭 I’m currently working on some **LLMs Systems🤧**
+
+- 🌱 I’m currently learning **FastAPI and English😏😉**
+
+- 💬 Ask me about **Python, NLP, Computer Vision**
+
+- 📫 How to reach me **beethovengedeon@gmail.com**
+  
     </div>
-    <!-- <div>
+    <div>
         <h3 align="left">Languages and Tools:</h3>
         <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
@@ -98,8 +81,8 @@
                     src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
                     height="40" /> </a>
         </p>
-    </div> -->
-    <div>
+    </div>
+    <!--div>
         <h3>Languages:</h3>
         <p style="text-align: left;">
             <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -120,24 +103,24 @@
             <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure-devops">
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
         </p>
-    </div>
+    </div-->
     <br>
     <hr width="100%">
     <div>
         <p align=center>
         <div align=center>
-            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
+            <a href="https://github.com/beethogedeon/beethogedeon" title="Go to Source">
                 <img align="left" width=390
-                    src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
+                    src="https://github-readme-stats.vercel.app/api?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true" />
             </a>
-            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
+            <a href="https://github.com/beethogedeon/beethogedeon" title="Go to Source">
                 <img align="right" width=390
-                    src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
+                    src="https://github-readme-streak-stats.herokuapp.com?user=beethogedeon&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
             </a>
         </div>
         <br><br><br><br><br><br><br><br><br>
         <div align="center">
-            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&theme=midnight-purple&&hide_border=truelangs_count=8"
+            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=beethogedeon&theme=codeSTACKr&&hide_border=truelangs_count=8"
                 alt="top langs" />
             </p>
         </div>
@@ -161,37 +144,37 @@
         <!-- phần repo -->
         <div >
             <p align="center">
-                <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
+                <a href="https://github.com/beethogedeon/comeup-service-description-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=comeup-service-description-generator" alt="Readme Card"></a>
+                <a href="https://github.com/beethogedeon/PDF-Talker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=PDF-Talker" alt="Readme Card"></a>
+                <a href="https://github.com/beethogedeon/audio_transcription"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=audio_transcription" alt="Readme Card"></a>
             </p>
         </div>
         <hr width="100%">
         <div>
             <h3 align="center"> 🥰 Connect with me:</h3>
-            <p align="center">
+            <!--p align="center">
                 <a href="https://discord.com/channels/@me/835488546897920021">
                     <img src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
                         alt="connect discord">
                 </a>
-            </p>
+            </p-->
             <p align="center">
                 ❤️
-                <a href="https://www.facebook.com/profile.php?id=100016824016369" target="blank"><img align="center"
+                <a href="https://www.facebook.com/gedeongbednou" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                        alt="lê bá thắng" height="30" width="40" /></a>
-                <a href="https://twitter.com/Thang_pr0vjp123" target="blank"><img align="center"
+                        alt="Gedeon Jesugo Gbedonou" height="30" width="40" /></a>
+                <a href="https://twitter.com/beetho_" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                        alt="provjp" height="30" width="40" /></a>
-                <a href="https://www.instagram.com/lebathang10a6/" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                        alt="lebathang" height="30" width="40" /></a>
-                <a href="https://medium.com/@lebathang" target="blank"><img align="center"
+                        alt="Gedeon Jesugo Gbedonou" height="30" width="40" /></a>
+                <a href="https://medium.com/@beethovengedeon" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-                        alt="@lebathang7b" height="30" width="40" /></a>
-                <a href="https://stackoverflow.com/users/19120952" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                        alt="user:19120952" height="30" width="40" /></a>
+                        alt="@beethovengedeon" height="30" width="40" /></a>
+                <a href="https://www.kaggle.com/beethoo" target="blank"><img align="center"
+                        src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg"
+                        alt="beethoo" height="30" width="40" /></a>
+                <a href="https://huggingface.co/Beetho" target="blank"><img align="center"
+                        src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"
+                        alt="Beetho" height="30" width="40" /></a>
                 ❤️
             </p>
         </div>
@@ -200,7 +183,7 @@
             <h2 align="center"> 💻 Github Contributions :electron: </h2>
             <br>
             <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebathang&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true"
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=beethogedeon&color=FF7F00&bg_color=09131B&line=FF7F00&point=FF7F00&area_color=000000&hide_border=true&area=true"
                     alt="readme active graph" />
             </div>
 </body>
