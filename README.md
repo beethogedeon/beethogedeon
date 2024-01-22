@@ -8,9 +8,9 @@
 </head>
 
 <body>
-    <div align="center">
+    <!--div align="center">
         <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/83e5af83-3dc4-42aa-9205-493594bf0bbd" alt="Cover gif">
-    </div>
+</div-->
     <div align ="center">
         <p>
         <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace">
