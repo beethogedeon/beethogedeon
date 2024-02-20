@@ -145,8 +145,8 @@
         <!-- phần repo -->
         <div >
             <p align="center">
-                <a href="https://github.com/beethogedeon/comeup-service-description-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=comeup-service-description-generator" alt="Readme Card"></a>
-                <a href="https://github.com/beethogedeon/PDF-Talker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=PDF-Talker" alt="Readme Card"></a>
+                <a href="https://github.com/beethogedeon/intrusalerts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=intrusalerts" alt="Readme Card"></a>
+                <a href="https://github.com/beethogedeon/RoadScan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=RoadScan" alt="Readme Card"></a>
                 <a href="https://github.com/beethogedeon/audio_transcription"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=audio_transcription" alt="Readme Card"></a>
             </p>
         </div>
