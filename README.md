@@ -120,11 +120,6 @@
             </a>
         </div>
         <br><br><br><br><br><br><br><br><br>
-        <div align="center">
-            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=beethogedeon&theme=codeSTACKr&&hide_border=truelangs_count=8"
-                alt="top langs" />
-            </p>
-        </div>
         <!-- <div>
             <h2 align="center">📝 Extras 📝</h2>
             <details>
