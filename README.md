@@ -31,7 +31,7 @@
             alt="Beetho profile Card" />
     </div>
     <div>
-            <h3>Hi 👋 my name is Gedeon Jesugo GBEDONOU😎</h3>
+            <h3>Hi 👋 I'm Gedeon Jesugo GBEDONOU😎</h3>
     </a>
 
 - 🔭 I’m currently working on some **LLMs Systems🤧**
