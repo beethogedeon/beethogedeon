@@ -1,191 +1,143 @@
-<!DOCTYPE html>
-<html lang="en">
+<div align="center">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
+<!-- Header Images & Logos -->
 
-<body>
-    <!--div align="center">
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/83e5af83-3dc4-42aa-9205-493594bf0bbd" alt="Cover gif">
-</div-->
-    <div align ="center">
-        <p>
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" alt="HuggingFace">
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/5b25e63e-4838-45e4-b87f-ea5f734688af" alt="OpenCV">
-        <!-- </p>
-        <p> -->
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/8c167abf-edfc-4cd3-8a64-69a2064f19c3" alt="Langchain">
-        <img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/699ba509-892a-4fb8-9d66-21ab7ee2a00b" alt="Tensorflow">
-        </p>
-    </div>
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS"
-            alt="view profile">
-    </div>
-    <div>
-    <a href="https://kloo.me/gedeon"><img align="right"
-            src="https://github.com/beethogedeon/beethogedeon/assets/90460864/b931183f-71b5-4927-8549-f0279c30188d" width="400"
-            alt="Beetho profile Card" />
-    </div>
-    <div>
-            <h3>Hi 👋 I'm Gedeon Jesugo GBEDONOU😎</h3>
-    </a>
+<img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/7e675ea8-fabb-4fec-a006-1a0b6f4478fc" height="50" alt="HuggingFace">
+<img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/5b25e63e-4838-45e4-b87f-ea5f734688af" height="50" alt="OpenCV">
+<img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/8c167abf-edfc-4cd3-8a64-69a2064f19c3" height="50" alt="Langchain">
+<img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/699ba509-892a-4fb8-9d66-21ab7ee2a00b" height="50" alt="Tensorflow">
 
-- 🔭 I’m currently working on some **LLMs Systems🤧**
 
-- 🌱 I’m currently learning **FastAPI and English😏😉**
 
-- 💬 Ask me about **Python, NLP, Computer Vision**
 
-- 📫 How to reach me **beethovengedeon@gmail.com**
-  
-    </div>
-    <div>
-        <h3 align="left">Languages and Tools:</h3>
-        <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
-                    width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                    alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/"
-                target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                    alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                    alt="docker" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
-                    width="40" height="40" /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
-                    height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                    alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                    alt="java" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                    alt="linux" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server"
-                target="_blank" rel="noreferrer"> <img
-                    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-                    height="40" /> </a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                    alt="bootstrap" width="40" height="40" /> </a>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                    alt="nodejs" width="40" height="40" /> </a>
-            <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-                    height="40" /> </a>
-        </p>
-    </div>
-    <!--div>
-        <h3>Languages:</h3>
-        <p style="text-align: left;">
-            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-            <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
-        </p>
-        <h3>Tools:</h3>
-        <p>
-            <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
-            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel">
-            <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-            <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku">
-            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-            <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure-devops">
-            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
-        </p>
-    </div-->
-    <br>
 
-    <div>
-        <p align=center>
-        <div align=center>
-            <a href="https://github.com/beethogedeon/beethogedeon" title="Go to Source">
-                <img align="left" width=390
-                    src="https://github-readme-stats.vercel.app/api?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true" />
-            </a>
-            <a href="https://github.com/beethogedeon/beethogedeon" title="Go to Source">
-                <img align="right" width=390
-                    src="https://github-readme-streak-stats.herokuapp.com?user=beethogedeon&theme=codeSTACKr&hide_border=true&date_format=j/n/Y" />
-            </a>
-        </div>
-        <br><br><br><br><br><br><br><br><br>
-        <!-- <div>
-            <h2 align="center">📝 Extras 📝</h2>
-            <details>
-                <summary>Click to expand!</summary>
-                <br>
-                <p>
-                </p>
-                <br>
-                <p>
-                    <img
-                        src="https://github-profile-trophy.vercel.app/?username=lebathang&theme=onedark&column=3&margin-w=15&margin-h=15" />
-                </p>
-                <br>
-                <img src="https://metrics.lecoq.io/lebathang?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&achievements=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon&config.twemoji=true"
-                    alt="Detailed Github Stats" />
-            </details>
-        </div> -->
-        <!-- phần repo -->
-        <div >
-            <p align="center">
-                <a href="https://github.com/beethogedeon/intrusalerts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=intrusalerts" alt="Readme Card"></a>
-                <a href="https://github.com/beethogedeon/RoadScan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=RoadScan" alt="Readme Card"></a>
-                <a href="https://github.com/beethogedeon/audio_transcription"><img src="https://github-readme-stats.vercel.app/api/pin/?username=beethogedeon&show_icons=true&theme=codeSTACKr&hide_border=true&amp;repo=audio_transcription" alt="Readme Card"></a>
-            </p>
-        </div>
+<!-- Typing Effect Title -->
 
-  <div>
-            <h3 align="center"> 🥰 Connect with me:</h3>
-            <!--p align="center">
-                <a href="https://discord.com/channels/@me/835488546897920021">
-                    <img src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
-                        alt="connect discord">
-                </a>
-            </p-->
-            <p align="center">
-                ❤️
-                <a href="https://www.facebook.com/gedeongbednou" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                        alt="Gedeon Jesugo Gbedonou" height="30" width="40" /></a>
-                <a href="https://twitter.com/beetho_" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                        alt="Gedeon Jesugo Gbedonou" height="30" width="40" /></a>
-                <a href="https://medium.com/@beethovengedeon" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-                        alt="@beethovengedeon" height="30" width="40" /></a>
-                <a href="https://www.kaggle.com/beethoo" target="blank"><img align="center"
-                        src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg"
-                        alt="beethoo" height="30" width="40" /></a>
-                <a href="https://huggingface.co/Beetho" target="blank"><img align="center"
-                        src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"
-                        alt="Beetho" height="30" width="40" /></a>
-                ❤️
-            </p>
-        </div>
-        
-  <div>
-            <h2 align="center"> 💻 Github Contributions :electron: </h2>
-            <br>
-            <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=beethogedeon&color=FF7F00&bg_color=09131B&line=FF7F00&point=FF7F00&area_color=000000&hide_border=true&area=true"
-                    alt="readme active graph" />
-  </div>
+<a href="https://www.google.com/search?q=https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3DF75C7E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2B%25F0%259F%2591%258B%2BI%27m%2BGedeon%2BGbedonou%3BAI%2B%2526%2BComputer%2BVision%2BEngineer%3BLLMs%2BEnthusiast%2B%25F0%259F%25A4%2593" alt="Typing SVG" />
+</a>
 
-  <div>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beethogedeon&theme=nord" alt="beethogedeon" /></a> </p>
-  </div>
-</body>
+<!-- Views Counter -->
 
-</html>
+</div>
+
+<!-- Main Content Table for Layout -->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="60%" valign="top">
+<h2>🧑‍💻 About Me</h2>
+<ul>
+<li>🔭 I’m currently working on <b>LLMs Systems 🤧</b></li>
+<li>🌱 I’m currently learning <b>FastAPI & Advanced English 😉</b></li>
+<li>💬 Ask me about <b>Python, NLP, Computer Vision</b></li>
+<li>📫 Reach me at: <a href="mailto:beethovengedeon@gmail.com"><b>beethovengedeon@gmail.com</b></a></li>
+<li>⚡ Fun fact: <i>"Data is the new oil, but I am the refinery."</i></li>
+</ul>
+</td>
+<td width="40%" valign="center">
+<div align="center">
+<a href="https://kloo.me/gedeon">
+<img src="https://github.com/beethogedeon/beethogedeon/assets/90460864/b931183f-71b5-4927-8549-f0279c30188d" width="100%" alt="Beetho profile Card" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- Tech Stack Section -->
+
+<div align="center">
+<h3>🛠️ Languages and Tools</h3>
+
+<!-- Cloud & DevOps -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+
+<!-- Languages -->
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL_Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" />
+
+<!-- Web -->
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<!-- GitHub Stats Section -->
+
+<div align="center">
+<h2>📈 GitHub Stats</h2>
+<a href="https://github.com/beethogedeon/beethogedeon">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dbeethogedeon%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Beetho's Github Stats" height="180" />
+</a>
+<a href="https://github.com/beethogedeon/beethogedeon">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dbeethogedeon%26theme%3Dtokyonight%26hide_border%3Dtrue%26date_format%3Dj/n/Y" alt="Beetho's Streak" height="180" />
+</a>
+
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dbeethogedeon%26color%3D70a5fd%26bg_color%3D1a1b27%26line%3D70a5fd%26point%3D70a5fd%26area_color%3D000000%26hide_border%3Dtrue%26area%3Dtrue" alt="Activity Graph" width="100%">
+
+
+
+
+
+
+
+<!-- Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dbeethogedeon%26theme%3Dtokyonight%26no-frame%3Dtrue%26margin-w%3D10" alt="Trophies" />
+</a>
+</div>
+
+<!-- Pinned Repos -->
+
+<div align="center">
+<h2>📌 Top Repositories</h2>
+<a href="https://github.com/beethogedeon/intrusalerts">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dbeethogedeon%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26repo%3Dintrusalerts" alt="intrusalerts">
+</a>
+<a href="https://github.com/beethogedeon/RoadScan">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dbeethogedeon%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26repo%3DRoadScan" alt="RoadScan">
+</a>
+<a href="https://github.com/beethogedeon/audio_transcription">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dbeethogedeon%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26repo%3Daudio_transcription" alt="audio_transcription">
+</a>
+</div>
+
+<!-- Footer / Connect -->
+
+<div align="center">
+<h3>🤝 Connect with me</h3>
+<p>
+<a href="https://www.facebook.com/gedeongbednou" target="blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook">
+</a>
+<a href="https://twitter.com/beetho" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
+</a>
+<a href="https://medium.com/@beethovengedeon" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" alt="Medium">
+</a>
+<a href="https://www.kaggle.com/beethoo" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" alt="Kaggle">
+</a>
+<a href="https://huggingface.co/Beetho" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HuggingFace-FFD21E%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" alt="HuggingFace">
+</a>
+</p>
+</div>
