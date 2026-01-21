@@ -81,7 +81,7 @@
 <img align="center" src="https://github-readme-stats-eight-phi-17.vercel.app/api?username=beethogedeon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Beetho's Github Stats" height="180" />
 </a>
 <a href="https://github.com/beethogedeon/beethogedeon">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=beethogedeon&theme=tokyonight&hide_border=true&date_format=j/n/Y" alt="Beetho's Streak" height="180" />
+<img align="center" src="https://github-readme-streak-stats-zeta-bay.vercel.app?user=beethogedeon&theme=tokyonight&hide_border=true&date_format=j/n/Y" alt="Beetho's Streak" height="180" />
 </a>
 
 
