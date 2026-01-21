@@ -99,9 +99,8 @@
 
 
 <!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=beethogedeon&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
-</a>
+
+<img src="https://github-profile-trophy-kannan.vercel.app//?username=beethogedeon&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
 </div>
 
 <!-- Pinned Repos -->
