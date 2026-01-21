@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- TITLE SECTION with Gradient and Typing Effect -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gedeon%2520Gbedonou&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=AI%2520%2526%2520Computer%252BVision%2520Engineer&descAlign=50&descAlignY=55" alt="Header" />
-
-<!-- TYPING SVG -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira%2BCode&weight=500&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Building%2BScalable%2BLLM%2BSystems%3BArchitecting%2BComputer%2BVision%2BSolutions%3BRefining%2BData%2Binto%2BIntelligence" alt="Typing SVG" />
-</a>
-
 <!-- SOCIAL ICONS (Clean & Minimalist) -->
 
 <p>
@@ -40,20 +30,20 @@
 <tr>
 <td width="65%" valign="top">
 
-class Gedeon:
-    def __init__(self):
-        self.role = "AI & Computer Vision Engineer"
-        self.passion = "LLMs Systems 🤧"
-        self.learning = ["FastAPI", "Advanced English"]
-        
-    def get_philosophy(self):
-        return "Data is the new oil, but I am the refinery."
+    class Gedeon:
+        def __init__(self):
+            self.role = "AI & Computer Vision Engineer"
+            self.passion = "LLMs Systems 🤧"
+            self.learning = ["FastAPI", "Advanced English"]
+            
+        def get_philosophy(self):
+            return "Data is the new oil, but I am the refinery."
 
-    def contact(self):
-        return {
-            "web": "kloo.me/gedeon",
-            "mail": "beethovengedeon@gmail.com"
-        }
+        def contact(self):
+            return {
+                "web": "kloo.me/gedeon",
+                "mail": "beethovengedeon@gmail.com"
+            }
 
 
 </td>
